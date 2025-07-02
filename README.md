@@ -21,9 +21,9 @@ I enjoy building:
 
 | Project | Description |
 |--------|-------------|
-| **Library Management System** | A Spring Boot app with user registration, login, book issuing, and return system. Integrated MySQL and role-based access with Spring Security. |
-| **Portfolio Website** | Personal website built using HTML, CSS, and Spring Boot backend for data persistence. |
-| **User Profile App** | Collects and displays user data using MongoDB, Spring Boot, and Thymeleaf templates. |
+| **Library Management System** | [A Spring Boot app with user registration, login, book issuing, and return system. Integrated MySQL and role-based access with Spring Security.](https://github.com/raisatabassumkabir/library-management-system) |
+| **Portfolio Website** |[ Personal website built using HTML, CSS, and Spring Boot backend for data persistence.](https://github.com/raisatabassumkabir/portfolio-demo) |
+| **Dating Application** | [Collects and displays user data using MongoDB, Spring Boot, and Thymeleaf templates.](https://github.com/raisatabassumkabir/dating-application) |
 
 ## 📫 Let's Connect
 
@@ -32,4 +32,3 @@ I enjoy building:
 
 ---
 
-Thanks for visiting! 🚀# raisatabassumkabir.github.io
