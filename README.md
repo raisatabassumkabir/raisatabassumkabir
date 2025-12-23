@@ -27,7 +27,7 @@ I enjoy building:
 
 ## 📫 Let's Connect
 
-- LinkedIn: [www.linkedin.com/in/raisa-tabassum-kabir-5898ba298]
+- LinkedIn: [https://www.linkedin.com/in/raisa-tabassum-kabir-5898ba298/]
 
 
 ---
