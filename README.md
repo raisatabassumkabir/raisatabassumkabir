@@ -6,10 +6,10 @@ Welcome to my GitHub! I'm a passionate backend developer specializing in buildin
 
 ## 💻 Technologies I Use
 
-- **Languages**: Java, HTML
+- **Languages**: Java, HTML, CSS, JavaScript 
 - **Frameworks**: Spring Boot, Spring MVC, Spring Security
 - **Databases**: MySQL, MongoDB
-- **Tools**: Maven, Git, Postman, IntelliJ IDEA
+- **Tools**: Maven, Git, Postman, IntelliJ IDEA, VS Code
 
 ## 🛠️ What I Build
 
