@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raisa – Java Developer
+# 👋 Hi, I'm Raisa – Software Developer
 ## 🌐 Portfolio
 🔗https://raisa-tabassum-kabir.vercel.app/
 
