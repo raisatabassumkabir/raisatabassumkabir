@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate backend developer specializing in buildin
 
 - **Languages**: Java, HTML, CSS, JavaScript 
 - **Frameworks**: Spring Boot, Spring MVC, Spring Security
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL, MongoDB, PostgerSQL
 - **Tools**: Maven, Git, Postman, IntelliJ IDEA, VS Code
 
 ## 🛠️ What I Build
